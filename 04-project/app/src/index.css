@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .black-overlay{
+    background-color: rgba(0, 0, 0, 0.7);
+} */
+
+body{
+    background-color: #323334;
+    color: white;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
